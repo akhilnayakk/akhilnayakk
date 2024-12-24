@@ -1,0 +1,39 @@
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  }
+
+.new {
+  color: orange;
+  margin-bottom: 10px;
+}
+
+.laptop {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.super {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.price {
+  margin-bottom: 25px;
+}
+
+.buy {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-weight: bold;
+  cursor: pointer;
+}
